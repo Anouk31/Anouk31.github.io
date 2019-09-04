@@ -1,0 +1,47 @@
+header {
+	
+	background-image: url(https://landingstock.com/wp-content/uploads/landingstock_images_32.jpg);
+	background-size:cover;
+	height:100vh;
+	background-position: center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+ .landingpage{
+
+ 	color: #9E9E9E;
+    font-family: 'Manjari', sans-serif;
+    
+}
+
+.button{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
